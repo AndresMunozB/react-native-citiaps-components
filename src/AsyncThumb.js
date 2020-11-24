@@ -15,7 +15,7 @@ export default function AsyncThumb({ url, width, height }) {
     }
 
     const errorRender = () => (
-        <Image source={require('../../assets/img/image-default.png')}
+        <Image source={require('../assets/img/image-default.png')}
             style={[styles.asyncThumb, dimensions]} />
     )
 
