@@ -1,2 +1,2 @@
-import AsycnThumb from './src/AsyncThumb';
-export default {AsycnThumb};
+import AsyncThumb from './src/AsyncThumb';
+export default {AsyncThumb};
