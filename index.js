@@ -1,3 +1,4 @@
 import AsyncThumb from './src/AsyncThumb';
 import Spinner from './src/Spinner';
-export {AsyncThumb, Spinner};
+import AlertBox from './src/AlertBox';
+export { AsyncThumb, Spinner, AlertBox };
