@@ -1,6 +1,6 @@
 {
   "name": "react-native-citiaps-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,5 @@
     "url": "https://github.com/AndresMunozB/react-native-citiaps-components/issues"
   },
   "homepage": "https://github.com/AndresMunozB/react-native-citiaps-components#readme",
-  "devDependencies": {
-    "metro-react-native-babel-preset": "^0.64.0"
-  }
+  "devDependencies": {}
 }
