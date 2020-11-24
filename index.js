@@ -1,2 +1,3 @@
 import AsyncThumb from './src/AsyncThumb';
-export {AsyncThumb};
+import Spinner from './src/Spinner';
+export {AsyncThumb, Spinner};
