@@ -5,7 +5,7 @@ AsyncThumb.defaultProps = {
     width: '100%',
     height: '100%'
 };
-export function AsyncThumb({ url, width, height }) {
+export default function AsyncThumb({ url, width, height }) {
     const [isLoading, setIsLoading] = useState(true)
     const [isError, setIsError] = useState(false)
 
